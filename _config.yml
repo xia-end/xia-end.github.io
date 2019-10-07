@@ -1,7 +1,7 @@
 # Site settings
 title:wuhengyu Blog
 SEOTitle: 邬恒宇的博客
-header-img: img/post-bg-index.jpg
+header-img: img/post-bg-index.jpeg
 email: wzbcode@163.com
 description: "Every failure is leading towards success."
 keyword: "邬恒宇的博客, wuhengyu, 邬恒宇, Java, 微服务, 敏捷开发"
@@ -19,7 +19,7 @@ sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in 
 # SNS settings
 RSS: false
 weibo_username:     
-zhihu_username:     zongguanxian
+zhihu_username:     
 github_username:    WuHengyu11
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
@@ -62,9 +62,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: ae47d898c3d118b467be                            #生成的clientID
   clientSecret: c30e8df95d413ec73785dea5b4237424165f77c7    #生成的clientSecret
-  repo: flyingwzb.github.io    #仓库名称
-  owner: flyingwzb    #github用户名
-  admin: flyingwzb
+  repo: WuHengyu11.github.io    #仓库名称
+  owner: WuHengyu11    #github用户名
+  admin: WuHengyu11
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -75,8 +75,8 @@ gitalk:
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-137811562-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-137811562-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
